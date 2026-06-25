@@ -1,0 +1,3 @@
+C:/Users/Daniel/Desktop/FPGA-perceptron-/C++ perceptron/cmake-build-debug/CMakeFiles/Perceptron.dir
+C:/Users/Daniel/Desktop/FPGA-perceptron-/C++ perceptron/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Daniel/Desktop/FPGA-perceptron-/C++ perceptron/cmake-build-debug/CMakeFiles/rebuild_cache.dir
